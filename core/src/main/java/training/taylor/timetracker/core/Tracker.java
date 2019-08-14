@@ -29,7 +29,7 @@ public class Tracker {
 
     public TimeEntry get(int index) {
 
-        if (valid = true) {
+        if (valid == true) {
             // whatever
         }
 
